@@ -1,3 +1,5 @@
+---
 titre: Acupuncture
+---
 
 Section acupuncture
