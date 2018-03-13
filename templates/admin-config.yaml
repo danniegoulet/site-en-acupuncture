@@ -13,4 +13,6 @@ collections:
       - label: titre
         name: titre
         widget: string
- 
+      - label: text
+        name: body
+        widget: markdown
