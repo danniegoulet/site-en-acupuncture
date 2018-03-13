@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
 
-media_folder: "images/téléversements"
+media_folder: "images"
 
 collections:
   - name: pages
@@ -9,9 +9,23 @@ collections:
     folder: pages
     create: false
     fields:
-      - label: titre
+      - label: Titre
         name: titre
         widget: string
-      - label: texte
+      - label: Texte
+        name: body
+        widget: markdown
+  - name: blogue
+    label: Blogue
+    folder: blogue
+    create: true
+    fields:
+      - label: Titre
+        name: titre
+        widget: string
+      - label: Date de publication
+        name: date
+        widget: datetime
+      - label: Texte
         name: body
         widget: markdown
