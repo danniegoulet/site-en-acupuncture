@@ -8,6 +8,10 @@
     <nav>
         <ul>
             <li><a href="{{ url_for("index") }}">Accueil</a></li>
+            <li><a href="{{ url_for("page", path='votre-acupuncteur') }}">Votre acupuncteur</a></li>
+            <li><a href="{{ url_for("page", path='acupuncture') }}">Acupuncture</a></li>
+            <li><a href="{{ url_for("page", path='mes-services') }}">Mes services</a></li>
+            <li><a href="{{ url_for("page", path='grossesse-et-fertilité') }}">Grossesse et fertilité</a></li>
         </ul>
     </nav>
 {% block content %}

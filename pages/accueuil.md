@@ -1,3 +1,3 @@
-titre: Accueuil
+titre: Mot de bienvenue
 
 Mot de la louche
