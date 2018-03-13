@@ -1,3 +1,4 @@
-titre: Votre acupuncteur
-
-Section votre acupuncteur
+---
+titre: Accueuil
+---
+Bienvenue dans ce site louche
