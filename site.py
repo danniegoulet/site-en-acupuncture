@@ -13,6 +13,10 @@ app.config.from_object(__name__)
 pages = FlatPages(app)
 freezer = Freezer(app)
 
+@app.route('/robots.txt')
+def robots():
+    return 'User-agent: *\nDisallow: /'
+
 
 @app.route('/')
 def index():
