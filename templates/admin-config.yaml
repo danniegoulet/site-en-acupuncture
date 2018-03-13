@@ -2,6 +2,7 @@ backend:
   name: git-gateway
 
 media_folder: "images/téléversements"
+frontmatter_delimiter: "\n"
 
 collections:
   - name: pages
