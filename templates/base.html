@@ -1,13 +1,16 @@
 <!doctype html>
-<html>
+<html lang="fr">
 <head>
     <meta charset="utf-8">
-    <title>My site</title>
+    <title>Acupuncture Dannie Goulet</title>
 </head>
 <body>
-    <h1><a href="{{ url_for("index") }}">My site</a></h1>
+    <nav>
+        <ul>
+            <li><a href="{{ url_for("index") }}">Accueil</a></li>
+        </ul>
+    </nav>
 {% block content %}
-    <p>Default content to be displayed</p>
 {% endblock content %}
 </body>
 </html>
