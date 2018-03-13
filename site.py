@@ -23,6 +23,16 @@ def index():
     return render_template('page.html', page=pages.get('accueuil'))
 
 
+@app.route('/admin/')
+def admin():
+    return render_template('admin.html')
+
+
+@app.route('/admin/config.yml')
+def admin_config():
+    return render_template('admin-config.yaml')
+
+
 @app.route('/<path:path>/')
 def page(path):
     page = pages.get_or_404(path)

@@ -1,0 +1,15 @@
+backend:
+  name: git-gateway
+
+media_folder: "images/téléversements"
+
+collections:
+  - name: pages
+    label: Pages
+    folder: pages
+    create: false
+    fields:
+      - label: titre
+        name: titre
+        widget: string
+ 
