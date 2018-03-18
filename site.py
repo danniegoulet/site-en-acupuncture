@@ -29,7 +29,7 @@ def robots():
 
 @app.route('/')
 def index():
-    return render_template('page.html', page=pages.get('accueuil'))
+    return render_template('page.html', page=pages.get('accueil'))
 
 
 @app.route('/admin/')
