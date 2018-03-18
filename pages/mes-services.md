@@ -272,8 +272,11 @@ dont nous avons besoin. »**
 
 * Gérer la douleur physique et la souffrance émotionnelle;
 * Faire des deuils et vous libérer de tout lien malsain dans votre vie;
-* Transformer les aspects de votre vie qui sont problématiques : relations amoureuses et familiales, travail, argent, sexualité, infertilité, manque de motivation, manque de confiance et d’estime de soi, difficulté dans l’affirmation de soi, phobie sociale, etc.;
-* Cesser de reproduire un comportement destructeur pouvant engendrer des émotions telles que la culpabilité, la colère, l’impuissance, la tristesse, etc.;
+* Transformer les aspects de votre vie qui sont problématiques : relations amoureuses et familiales, 
+  travail, argent, sexualité, infertilité, manque de motivation, manque de confiance et d’estime de soi,
+  difficulté dans l’affirmation de soi, phobie sociale, etc.;
+* Cesser de reproduire un comportement destructeur pouvant engendrer des émotions telles que la 
+  culpabilité, la colère, l’impuissance, la tristesse, etc.;
 * Éliminer le stress et l'anxiété; 
 * Augmenter l’énergie;
 * Éliminer une allergie;
@@ -281,8 +284,11 @@ dont nous avons besoin. »**
 * Enrayer une dépendance : tabagisme, alcool, drogue, sucre, café, malbouffe, etc.;
 * Vous débarrasser d’une mauvaise habitude : se ronger les ongles, manger trop vite, procrastiner, etc.; 
 * Soulager certains problèmes de peau : eczéma, psoriasis, urticaire, acné;
-* Corriger certaines perturbations hormonales : hormones thyroïdiennes, progestérone, œstrogène, testostérone, insuline, cortisol, etc.;
-* Équilibrer les neurotransmetteurs essentiels au bon fonctionnement du cerveau : stress chronique, anxiété, attaques paniques, dépression, insomnie, mauvaise mémoire, mauvaise concentration, manque d’énergie, compulsions alimentaires, gestion du poids, etc.
+* Corriger certaines perturbations hormonales : hormones thyroïdiennes, progestérone, œstrogène, 
+  testostérone, insuline, cortisol, etc.;
+* Équilibrer les neurotransmetteurs essentiels au bon fonctionnement du cerveau : stress chronique, 
+  anxiété, attaques paniques, dépression, insomnie, mauvaise mémoire, mauvaise concentration, manque 
+  d’énergie, compulsions alimentaires, gestion du poids, etc.
 
 
 À titre de guide en hypnose holistique, j’aurai le plaisir de vous accompagner vers votre plein 
