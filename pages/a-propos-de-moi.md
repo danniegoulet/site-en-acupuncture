@@ -26,8 +26,8 @@ Je combine souvent les deux au besoin pour augmenter l’efficacité du traiteme
 Je crois grandement au potentiel de guérison et aux ressources intérieures de chaque personne que je traite. Au-delà des techniques et des outils utilisés pour améliorer l’état de mes patients, mes interventions se font toujours avec une intention profonde de les guider vers connaissances en matière le retour à une santé optimale. D’une curiosité insatiable, je fais régulièrement des recherches pour approfondir mes d’acupuncture, de nutrition, de gestion du stress, de psychologie et de spiritualité, ainsi que dans bien d’autres domaines.  Je partage mon savoir avec mes patients en fonction de ce que je juge nécessaire pour eux dans le but de les encourager à développer de nouvelles habitudes saines et propices à l’atteinte de leur objectif santé. 
 Pour les personnes stressées, anxieuses ou perturbées par des émotions difficiles, j’offre un accompagnement selon leur propre désir à l’aide d’une technique de libération émotionnelle (EFT) une fois la pose d’aiguilles terminée. Les tensions mentales et physiques relâchent rapidement; c’est d’ailleurs toujours un grand plaisir de voir à nouveau naître un sourire.
 
-Prendre soin. Soulager. Écouter. Accueillir. Comprendre. Accompagner. Rire. Aimer ;
-Telle est ma mission.
+**Prendre soin. Soulager. Écouter. Accueillir. Comprendre. Accompagner. Rire. Aimer ;
+Telle est ma mission.**
 
 
 ## Mes formations 
