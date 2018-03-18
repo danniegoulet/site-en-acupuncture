@@ -1,5 +1,5 @@
 ---
-titre: Votre acupuncteur
+titre: À propos de moi
 ---
 
 Section votre acupuncteur
